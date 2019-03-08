@@ -84,9 +84,15 @@ html, body {
   top: 0.3rem;
 }
 
-.doc__content {
+.about__content {
   flex-basis: 80%;
   padding: 0 0 5rem 1rem;
+  text-align: right;
+}
+
+p {
+  flex-basis: 80%;
+  text-align: left;
 }
 
 @media (max-width: 750px) {
