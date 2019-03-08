@@ -13,6 +13,11 @@
   --code-bg-color: #F0E8E8;
 }
 
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
 /* normalized */
 html, body {
   padding: 0;
