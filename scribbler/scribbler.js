@@ -32,7 +32,7 @@ if (document.getElementsByClassName('demo').length > 0) {
     }
   }
 
-  setTimeout(typeItOut, 1800);
+  setTimeout(typeItOut, 100);
 }
 
 // toggle tabs on codeblock
