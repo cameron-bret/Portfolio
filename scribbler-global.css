@@ -165,6 +165,10 @@ hr {
   color: var(--accent-color);
 }
 
+.projects {
+  color: var(--accent-color);
+}
+
 .link--dark {
   color: var(--primary-color);
 }
