@@ -48,7 +48,7 @@ html, body {
 }
 
 .doc__nav {
-  flex-basis: 20%;
+  flex-basis: 28%;
   font-weight: 200;
 }
 
@@ -93,6 +93,7 @@ html, body {
 .testimonial {
   border: solid 1px black;
   padding: 20px;
+  margin: 20px;
 }
 
 .test_img {
