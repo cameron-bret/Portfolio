@@ -90,6 +90,16 @@ html, body {
   text-align: right;
 }
 
+.testimonial {
+  border: solid 1px black;
+  padding: 20px;
+}
+
+.test_img {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 p {
   flex-basis: 80%;
   text-align: left;
